@@ -1,5 +1,5 @@
 # Machine-Learning-Engineer-Nanodegree
-Contain my projects learning from Udacity Machine Learning Engineer Nanodegree
+Contain learning materials and my projects from Udacity Machine Learning Engineer Nanodegree
 
 Capstone - Individual Tax Income Prediction
 
